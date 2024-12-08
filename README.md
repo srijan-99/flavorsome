@@ -23,7 +23,7 @@ Search for what you want to cook and Hurray! Impress others with mouth-watering 
 To clone copy the following command in your terminal and start development.
 
 ```sh
-git clone https://github.com/akshatmittal61/flavorsome.git
+git clone https://github.com/srijan-99/flavorsome.git
 ```
 
 cd into the directory
