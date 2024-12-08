@@ -67,9 +67,4 @@ Building the .env
 
 # Author
 
-- [Akshat Mittal](https://akshatmittal61.vercel.app)
-
-# Other Resources
-
-- [FlavorSome Plan](https://docs.google.com/document/d/1Y7bzRBCu1durVcao_jtrZwMTV3Ja2rc97ONm1hG7OH8/)
-- [Figma Prototype](https://www.figma.com/file/nUxAyzwv9jfa1J1Wzb75B3/FlavorSome)
+- [Srijan Ojha](https://github.com/srijan-99/)
